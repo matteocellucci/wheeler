@@ -1,13 +1,13 @@
 {
   "name": "wheeler",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A creative out of the office email",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "./node_modules/.bin/mjml -w index.mjml",
+    "build": "./node_modules/.bin/mjml index.mjml --config.minify -o dist.html"
   },
   "keywords": [],
-  "author": "",
+  "author": "Matteo Cellucci",
   "license": "ISC",
   "dependencies": {
     "mjml": "^4.6.3"

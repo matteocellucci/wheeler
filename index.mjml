@@ -2,7 +2,7 @@
   <mj-body>
     <mj-section>
       <mj-column>
-        <mj-image width="33px" align="left" src="images/matteocellucci.xyz/wheeler/assets/img/page-icon.png"></mj-image>
+        <mj-image width="33px" align="left" src="https://matteocellucci-images.s3.eu-central-1.amazonaws.com/myspace/wheeler/page-icon.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
