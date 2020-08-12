@@ -7,17 +7,17 @@
     </mj-section>
     <mj-section padding="0">
       <mj-column>
-        <mj-text font-family="sans, Arial, sans-serif" font-size="24px" color="#202124">I'm currently out of the office</mj-text>
+        <mj-text align="left" font-family="sans, Arial, sans-serif" font-size="24px" color="#202124">I'm currently out of the office</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
       <mj-column>
-        <mj-text font-family="sans, Arial, sans-serif" font-size="15px" color="#5F6368">I’ll reply to your message promptly when I return on <strong>2020.08.24</strong>.</mj-text>
+        <mj-text align="left" font-family="sans, Arial, sans-serif" font-size="15px" color="#5F6368">I’ll reply to your message promptly when I return on <strong>2020.08.24</strong>.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
       <mj-column>
-        <mj-text font-family="sans, Arial, sans-serif" font-size="15px" color="#5F6368">
+        <mj-text align="left" font-family="sans, Arial, sans-serif" font-size="15px" color="#5F6368">
           If your message is time sensitive, you can:
           <ul>
             <li style="padding:5px 0">Send an email to my co-workers;</li>
@@ -29,7 +29,7 @@
     </mj-section>
     <mj-section padding="0">
       <mj-column>
-        <mj-text font-family="sans, Arial, sans-serif" font-size="12px" color="#5F6368">OUT_OF_MIND_STATE</mj-text>
+        <mj-text align="left" font-family="sans, Arial, sans-serif" font-size="12px" color="#5F6368">OUT_OF_MIND_STATE</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
